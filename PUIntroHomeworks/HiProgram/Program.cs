@@ -6,7 +6,7 @@ namespace HiProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello I am Georgi Pavlov !");
+            Console.WriteLine("Hello I am Georgi Pavlov and I am 19 years old!");
         }
     }
 }
