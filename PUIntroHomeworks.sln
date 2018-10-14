@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiProgram", "HiProgram\HiProgram.csproj", "{CD96B0E4-F7B0-411E-81CF-7C8A994A2013}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeAfter10Years", "AgeAfter10Years\AgeAfter10Years.csproj", "{1384AD7E-6CF7-4A3E-B288-454EC36E28AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{B6984AB6-9A6D-4B30-A103-5D4E17A21962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigit", "4thDigit\4thDigit.csproj", "{D86AE956-06A8-4775-911B-2698DE35A0F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToSunWithSoundSpeed", "TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{965149DF-F563-49B5-AD42-EC64AFE131FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD96B0E4-F7B0-411E-81CF-7C8A994A2013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD96B0E4-F7B0-411E-81CF-7C8A994A2013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD96B0E4-F7B0-411E-81CF-7C8A994A2013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD96B0E4-F7B0-411E-81CF-7C8A994A2013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1384AD7E-6CF7-4A3E-B288-454EC36E28AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1384AD7E-6CF7-4A3E-B288-454EC36E28AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1384AD7E-6CF7-4A3E-B288-454EC36E28AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1384AD7E-6CF7-4A3E-B288-454EC36E28AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6984AB6-9A6D-4B30-A103-5D4E17A21962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6984AB6-9A6D-4B30-A103-5D4E17A21962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6984AB6-9A6D-4B30-A103-5D4E17A21962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6984AB6-9A6D-4B30-A103-5D4E17A21962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86AE956-06A8-4775-911B-2698DE35A0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86AE956-06A8-4775-911B-2698DE35A0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86AE956-06A8-4775-911B-2698DE35A0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86AE956-06A8-4775-911B-2698DE35A0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34BA955F-D284-49A9-A1C2-07C9E92768E2}
+	EndGlobalSection
+EndGlobal
