@@ -9,13 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeAfter10Years", "AgeAfter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{B6984AB6-9A6D-4B30-A103-5D4E17A21962}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4thDigit", "4thDigit\4thDigit.csproj", "{D86AE956-06A8-4775-911B-2698DE35A0F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4thDigit", "4thDigit\4thDigit.csproj", "{D86AE956-06A8-4775-911B-2698DE35A0F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToSunWithSoundSpeed", "TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelingToSunWithSoundSpeed", "TravelingToSunWithSoundSpeed\TravelingToSunWithSoundSpeed.csproj", "{0DC84E51-3D3A-4D37-A0C6-6B5CDB30010D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{104D66F3-D875-48ED-84CB-B2C7AE4DC4B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{965149DF-F563-49B5-AD42-EC64AFE131FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{965149DF-F563-49B5-AD42-EC64AFE131FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{A3DFFBF5-EBED-426C-85E0-C4791C87061F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miser Piggy", "Miser Piggy\Miser Piggy.csproj", "{B89D1A69-5791-4EFB-81B0-AD4DE1463581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{D1336546-E184-4FC8-92AA-67F4BD759C67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{965149DF-F563-49B5-AD42-EC64AFE131FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DFFBF5-EBED-426C-85E0-C4791C87061F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DFFBF5-EBED-426C-85E0-C4791C87061F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DFFBF5-EBED-426C-85E0-C4791C87061F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DFFBF5-EBED-426C-85E0-C4791C87061F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89D1A69-5791-4EFB-81B0-AD4DE1463581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89D1A69-5791-4EFB-81B0-AD4DE1463581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89D1A69-5791-4EFB-81B0-AD4DE1463581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89D1A69-5791-4EFB-81B0-AD4DE1463581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1336546-E184-4FC8-92AA-67F4BD759C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1336546-E184-4FC8-92AA-67F4BD759C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1336546-E184-4FC8-92AA-67F4BD759C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1336546-E184-4FC8-92AA-67F4BD759C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
